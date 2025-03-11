@@ -16,6 +16,8 @@
     "@algolia/autocomplete-preset-algolia": "latest",
     "@algolia/autocomplete-shared": "latest",
     "@algolia/client-search": "^5.4.3",
+    "@contentlayer/core": "^0.3.4",
+    "@contentlayer/utils": "^0.3.4",
     "@headlessui/react": "1.7.19",
     "@next/bundle-analyzer": "14.2.3",
     "@tailwindcss/forms": "^0.5.7",
